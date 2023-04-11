@@ -9,6 +9,20 @@ body {
   flex-direction: column;
 }
 
+header {
+  background-color: #1f2937;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem 0;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+}
+
 footer {
   margin-top: auto;
   background-color: #1f2937;
