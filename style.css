@@ -11,4 +11,10 @@ body {
 
 footer {
   margin-top: auto;
+  background-color: #1f2937;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem 0;
 }
