@@ -90,6 +90,22 @@ main button {
   width: 200px;
 }
 
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 5rem 10rem;
+}
+
+.quote-section > p {
+  font-size: 36px;
+  color: #1f2937;
+  font-style: italic;
+}
+
+.quote-section > h3 {
+  text-align: end;
+  margin-right: 1rem;
+}
+
 footer {
   margin-top: auto;
   background-color: #1f2937;
